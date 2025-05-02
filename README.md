@@ -1,4 +1,9 @@
-## I'm John Varghese aka @Cyber_Trinity 
+<!-- John Varghese -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/John-Varghese-EH/John-Varghese-EH/main/.github/assets/animated-gradient-banner.svg" alt="Animated Gradient Banner" height="20%" width="100%" />
+</p>
+
+## I'm John Varghese aka @Cyber_Trinity
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hello+%F0%9F%91%8B%2C+I'm+John+Varghese;Cybersecurity+%7C+Digital+Innovation;Empowering+Digital+Safety+%F0%9F%94%91;Lifelong+Learner+%F0%9F%92%AF" alt="Typing SVG" />
@@ -18,10 +23,18 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://instagram.com/Cyber__Trinity"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/John--Varghese"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
-  <a href="https://youtube.com/@Trendy_NED"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" /></a>
-  <a href="mailto:CyberTrinity@Mail2Tor.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="https://instagram.com/Cyber__Trinity">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/John--Varghese">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://youtube.com/@Trendy_NED">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="mailto:CyberTrinity@Mail2Tor.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -91,6 +104,10 @@
 ## 💰 Support My Work
 
 <p align="center">
-  <a href="https://buymeacoffee.com/CyberTrinity"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
-  <a href="https://patreon.com/CyberTrinity"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" /></a>
+  <a href="https://buymeacoffee.com/CyberTrinity">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+  </a>
+  <a href="https://patreon.com/CyberTrinity">
+    <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" />
+  </a>
 </p>
