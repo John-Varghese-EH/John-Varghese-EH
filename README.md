@@ -83,7 +83,7 @@
 ## 📊 Visitor Count
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=John-Varghese-EH&icon=2&color=2" />
+  <img src="https://profile-counter.glitch.me/John-Varghese-EH/count.svg" alt="Visitor Count" />
 </p>
 
 ---
