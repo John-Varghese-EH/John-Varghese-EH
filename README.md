@@ -52,7 +52,15 @@
 
 ---
 
-## 🐍 Contribution Snake Animation
+## ✍️ Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
+## 🐍 Contribution
 
 <p align="center">
   <picture>
@@ -60,14 +68,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/John-Varghese-EH/John-Varghese-EH/output/github-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/John-Varghese-EH/John-Varghese-EH/output/github-snake.svg" />
   </picture>
-</p>
-
----
-
-## ✍️ Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
 ---
@@ -94,9 +94,3 @@
   <a href="https://buymeacoffee.com/CyberTrinity"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
   <a href="https://patreon.com/CyberTrinity"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" /></a>
 </p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/John-Varghese-EH/John-Varghese-EH/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/John-Varghese-EH/John-Varghese-EH/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/John-Varghese-EH/John-Varghese-EH/output/github-snake.svg" />
-</picture>
