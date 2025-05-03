@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/John-Varghese-EH/John-Varghese-EH/main/.github/assets/CyberTrinity-banner.svg" alt="Cyber_Trinity(John) Animated Banner" height="20%" width="100%" />
 </p>
 
-## I'm John Varghese aka @Cyber_Trinity
+## I'm John Varghese aka? @Cyber_Trinity
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hello+%F0%9F%91%8B%2C+I'm+John+Varghese;Cybersecurity+%7C+Digital+Innovation;Empowering+Digital+Safety+%F0%9F%94%91;Lifelong+Learner+%F0%9F%92%AF" alt="Typing SVG" />
