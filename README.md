@@ -47,7 +47,7 @@
 
 ---
 
-## 📈 GitHub Stats & Activity
+<!-- ## 📈 GitHub Stats & Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=John-Varghese-EH&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
@@ -63,7 +63,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=John-Varghese-EH&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
 </p>
 
----
+--- -->
 
 ## ✍️ Dev Quote
 
@@ -93,14 +93,6 @@
 
 ---
 
-## 📊 Visitor Count
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/John-Varghese-EH/count.svg" alt="Visitor Count" />
-</p>
-
----
-
 ## 💰 Support My Work
 
 <p align="center">
@@ -110,4 +102,12 @@
   <a href="https://patreon.com/CyberTrinity">
     <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" />
   </a>
+</p>
+
+---
+
+## 📊 Visitor Count
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/John-Varghese-EH/count.svg" alt="Visitor Count" />
 </p>
