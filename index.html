@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>John Varghese - Portfolio</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    html, body {
+      height: 100%;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+    }
+    #disclaimer {
+      display: none;
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100vw;
+      background: #d32f2f;
+      color: #fff;
+      font-size: 1rem;
+      padding: 0.5em 1em;
+      z-index: 1000;
+      box-sizing: border-box;
+      text-align: center;
+      font-family: sans-serif;
+    }
+    #mainFrame {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100vw;
+      height: 100vh;
+      border: none;
+      margin: 0;
+      padding: 0;
+      z-index: 1;
+      transition: top 0.2s;
+    }
+    body.disclaimer-visible #mainFrame {
+      top: 40px; /* Height of disclaimer bar */
+      height: calc(100vh - 40px);
+    }
+    body.disclaimer-visible #disclaimer {
+      display: block;
+    }
+  </style>
+</head>
+<body>
+  <div id="disclaimer">⚠️ This site is a work-in-progress / POC.</div>
+  <iframe id="mainFrame" src="https://johnvarghese.netlify.app/"></iframe>
+  <script>
+    // Set this variable to true or false to show/hide the disclaimer
+    var showDisclaimer = false;
+
+    if (showDisclaimer) {
+      document.body.classList.add('disclaimer-visible');
+    }
+  </script>
+</body>
+</html>
