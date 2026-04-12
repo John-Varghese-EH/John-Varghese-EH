@@ -27,8 +27,9 @@
 - 🎓 Student passionate about cybersecurity, digital innovation, and lifelong learning  
 - 🛡️ Empowering digital safety through technology and awareness  
 - 💡 Exploring new tech, frameworks, and creative solutions  
-- 🤝 Open to collaborations, mentorship, and knowledge sharing
+- 🤝 Open to collaborations, mentorship, and knowledge sharing  
 
+### If my repository is helpful for you then [Nominate me for GitHub Star](https://stars.github.com/nominate/)
 ---
 
 ## 🌐 Connect with Me
