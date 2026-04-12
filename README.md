@@ -114,14 +114,6 @@
 
 --- -->
 
-## ✍️ Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark" />
-</p>
-
----
-
 ## 🐍 Contribution
 
 <p align="center">
@@ -130,6 +122,14 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/John-Varghese-EH/John-Varghese-EH/output/github-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/John-Varghese-EH/John-Varghese-EH/output/github-snake.svg" />
   </picture>
+</p>
+
+---
+
+## ✍️ Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark" />
 </p>
 
 ---
