@@ -146,7 +146,7 @@
 
 <div align="center">
 
-  [![UPI Payment](https://img.shields.io/badge/UPI_Payment-blue?style=for-the-badge&logo=paytm&logoColor=white)](https://nox-pay.vercel.app/upi/pay?pa=john.varghese%40superyes&tn=gh-support)
+  [![UPI Payment](https://img.shields.io/badge/UPI_Payment-blue?style=for-the-badge&logo=paytm&logoColor=white)](https://nox-pay.vercel.app/upi/pay?pa=john.varghese%40superyes&tn=gh-support&lg=https%3A%2F%2Fjohnvarghese.vercel.app%2Flogo.webp)
   [![Buy me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/CyberTrinity)
   [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/CyberTrinity)
   [![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/John-Varghese-EH)
